@@ -2,7 +2,7 @@
 az204_apim : #api_management
 
 ## Objective
-To reate an API Management (APIM) instance, import API, configure backend settings and test the API.
+To create an API Management (APIM) instance, import API, configure backend settings and test the API.
 
 
 ## API Management
